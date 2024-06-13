@@ -1,0 +1,93 @@
+body {
+    background-color: #FAF0E6; 
+}
+.login_element {
+    width: 400px;
+    height: 300px; 
+}
+.home_element {
+    width: 400px;
+    height: 450px;
+}
+.register_element {
+    width: 400px;
+    height: 520px;
+}
+.div_element {
+    background-color: #F0F8FF;
+    border: 1px solid #000000;
+    border-radius: 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.notisuccess {
+    width: 300px;
+    height: 130px;
+}
+.element {
+    text-align: center;
+    padding: 20px;
+}
+.element2 {
+    text-align: center;
+    margin-top: 0px;
+    padding: 20px;
+}
+.textstyle_left {
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.textstyle_right {
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.output_textstyle_leftcol {
+    margin: 0 15px;
+    font-weight: bold;
+}
+.output_textstyle_rightcol {
+    margin: 0 15px;
+}
+.output_textstyle_rightcol2 {
+    text-align: right;
+    margin-right: 15px;
+    margin-left: auto;
+}
+.output_textstyle_pair {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.listofdata {
+    margin: 0 15px;
+}
+.datewidth {
+    width: 165px;
+}
+.line {
+    width: 85%;
+}
+.register_line {
+    width: 95%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.buttonstyle {
+    align-items: center;
+    margin-top: 40px;
+}
+.fontsize {
+    font-size: 13px;
+}
+.notifontsize {
+    font-size: 16px;
+}
