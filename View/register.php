@@ -10,7 +10,7 @@
     <div class="register_element div_element">
         <div class="element">
             <h3>Register</h3>
-            <form action="checkregister.php" method="POST">
+            <form action="checkregister.php" method="GET">
                 <div class="output_textstyle_pair">
                     <div class="listofdata">
                         Firstname

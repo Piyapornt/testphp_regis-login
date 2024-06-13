@@ -62,7 +62,7 @@
                     <?php echo "$email";?>
                 </div>
             </div>
-            <form action="login.php" method="POST">
+            <form action="login.php" method="GET">
                 <div class="buttonstyle">
                     <input type="submit" value="logout">
                 </div>
